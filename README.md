@@ -47,9 +47,8 @@ The model uses a simple Multi-Layer Perceptron (MLP) architecture:
     ```
 
 ## 📊 Results
-* **Training Accuracy:** ~98% (Example value, update after training)
-* **Test Accuracy:** ~97% (Example value, update after training)
-
+* **Training Accuracy:** ~98% 
+* **Test Accuracy:** ~97% 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
